@@ -1,0 +1,19 @@
+.nome{
+    color: #f00;
+    /* font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: bold; */
+
+    font: italic bold 24px Arial, sans-serif;
+
+    /* text-decoration: line-through; deixa risco,posso usar para tipo uma promocao de produto*/
+    text-decoration: underline; /* sublinha */
+    /* text-align: none; /* para link <a> */ 
+    text-align: center;
+    
+
+}
+.segmento{
+    font-family: Palatino, serif;
+}
